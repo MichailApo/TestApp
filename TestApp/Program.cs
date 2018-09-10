@@ -13,6 +13,7 @@ namespace TestApp
         {
             Console.WriteLine("Hello World");
             var byterange = new Accord.ByteRange();
+            var kati = new List<int>();
             Console.ReadKey();
         }
     }
